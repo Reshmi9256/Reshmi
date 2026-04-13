@@ -324,10 +324,10 @@ Machine Learning   ██████░░░░░░░░░░░░  35%
     <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" width="50" height="50"/>
   </a>
   <a href="https://www.hackerrank.com/profile/sec23it109">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/social/hackerrank.svg" alt="HackerRank" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" width="50" height="50"/>
   </a>
   <a href="https://leetcode.com/u/Reshmi_2006/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/social/leet-code.svg" alt="LeetCode" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="50" height="50"/>
   </a>
 </p>
 
