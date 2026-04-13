@@ -37,6 +37,12 @@
   <a href="https://dev.to/Reshmi9256">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
+  <a href="https://www.hackerrank.com/profile/sec23it109">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://leetcode.com/u/Reshmi_2006/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
 
 <!-- Buy Me a Coffee -->
@@ -236,6 +242,49 @@ Machine Learning   ██████░░░░░░░░░░░░  35%
 
 ---
 
+## 💻 Competitive Programming
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🟢 HackerRank
+
+<a href="https://www.hackerrank.com/profile/sec23it109">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+<br/><br/>
+
+[![HackerRank](https://img.shields.io/badge/Visit%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sec23it109)
+
+- 🏅 Solving challenges in **Java, SQL & Problem Solving**
+- 🔥 Practicing **Data Structures & Algorithms**
+- 🌟 Building strong **DSA foundations**
+
+</td>
+<td width="50%" align="center">
+
+### 🟡 LeetCode
+
+<a href="https://leetcode.com/u/Reshmi_2006/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/Reshmi_2006?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -333,6 +382,12 @@ Machine Learning   ██████░░░░░░░░░░░░  35%
   </a>
   <a href="https://dev.to/Reshmi9256">
     <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" width="50" height="50"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/sec23it109">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="50"/>
+  </a>
+  <a href="https://leetcode.com/u/Reshmi_2006/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="50"/>
   </a>
 </p>
 
