@@ -352,7 +352,7 @@ Machine Learning   ██████░░░░░░░░░░░░  35%
 **📍 Location:** Chennai, India  
 **🗣️ Languages:** English, Tamil, German  
 **📞 Phone:** +91 7604901509  
-**🎓 University:** Sri Sairam Engineering College (CGPA: 8.4)  
+**🎓 College:** Sri Sairam Engineering College (CGPA: 8.4)  
 **📅 Graduation:** 2027
 
 </div>
