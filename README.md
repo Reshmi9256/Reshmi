@@ -378,7 +378,4 @@ Machine Learning   ██████░░░░░░░░░░░░  35%
 
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
+
